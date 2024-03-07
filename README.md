@@ -1,9 +1,10 @@
-Welcome to your CSE 481p repo! 
+# Welcome gto DubLease!
 
-This repo will serve as a place to both collaborate on code with your group members as well as create your blog sites for your projects. It contains a `_config.yml` file that automatically turns your `README.md` files into webpages hosted on GitHub pages. 
+## Background
 
-Please refer to the README in [this repo](https://github.com/nicolas-van/easy-markdown-to-github-pages) for more on the markdown to webpage generation process. Most of the steps have already been done for you, so the most relevant content will likely be in the User Guide and the sections following that. 
+Last year, we tried to sublease our apartments and went through the typical process that most people at UW go through. We posted in the Facebook groups and even tried some of the other platforms where people advertise housing (such as Yammer). However, this process was super annoying. When we posted, we got no responses, and we weren’t sure if anyone even saw our posts. Also, there was SO MUCH spam from bots in this group. We realized that there is a lack of a dedicated service that exists solely for connecting listings and tenants. We’d like to introduce you to DubLease! 
+DubLease is a platform that connects listers looking to find suitable tenants for their available residential areas to individuals looking for a safe and accommodating place that meets their needs. On DubLease you can create listings as a lister and filter/sort listings as a tenant, all within the local Seattle area. Users are present with only relevant information particular to the post and can choose how they would like to pursue potential opportunities. Fun prompts and questions also help to create a more personalized experience that comforts the user knowing that they are presented with credible information and having safe interactions with trusting individuals
 
-If you want to change the site's Jekyll template and/or add custom CSS, please refer to [this guide](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll).
+## Check out our Demo Video
 
-You may also find this [GitHub markdown cheatsheet](https://www.markdownguide.org/cheat-sheet) handy.
+<a href="https://www.youtube.com/watch?v=DYi3fZMZbbU"><img src="https://img.youtube.com/vi/DYi3fZMZbbU/hqdefault.jpg" alt="Watch our demo" style="width: 500px;"></a>
