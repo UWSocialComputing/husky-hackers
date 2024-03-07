@@ -1,4 +1,4 @@
-# Welcome gto DubLease!
+# Welcome to DubLease!
 
 ## Background
 
