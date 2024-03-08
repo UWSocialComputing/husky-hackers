@@ -17,8 +17,10 @@ DubLease is a platform that connects listers looking to find suitable tenants fo
 ## Meet the Team
 
 ### Grace Brigham (nbrigham@cs.washington.edu)
+<img title="Grace" alt="Grace" src="/images/Headshot.jpg" style="width: 200px;">
 
 ### Sanjana Chintalapati (sanjanac@cs.washington.edu)
+<img title="Sanjana" alt="Sanjana" src="/images/sanjana.jpg" style="width: 200px;">
 
 ### Thevina Dokka (tdokka@cs.washington.edu)
 <img title="Thevina" alt="Thevina" src="/images/thevina.png" style="width: 200px;">
