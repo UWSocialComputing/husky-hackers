@@ -1,7 +1,8 @@
 # Welcome to DubLease!
 <div style="text-align: center;">
-    <img title="Dublease" alt="Dublease" src="/images/name.png">
+    <img title="Dublease" alt="Dublease" src="https://raw.githubusercontent.com/UWSocialComputing/husky-hackers/main/images/name.png">
 </div>
+
 
 
 ## Background
@@ -17,12 +18,13 @@ DubLease is a platform that connects listers looking to find suitable tenants fo
 ## Meet the Team
 
 ### Grace Brigham (nbrigham@cs.washington.edu)
-<img title="Grace" alt="Grace" src="/images/Headshot.jpg" style="width: 200px;">
+
+<img title="Grace" alt="Grace" src="https://raw.githubusercontent.com/UWSocialComputing/husky-hackers/main/images/Headshot.jpg" style="width: 200px;">
 
 ### Sanjana Chintalapati (sanjanac@cs.washington.edu)
-<img title="Sanjana" alt="Sanjana" src="/images/sanjana.jpg" style="width: 200px;">
+
+<img title="Sanjana" alt="Sanjana" src="https://raw.githubusercontent.com/UWSocialComputing/husky-hackers/main/images/sanjana.jpg" style="width: 200px;">
 
 ### Thevina Dokka (tdokka@cs.washington.edu)
-<img title="Thevina" alt="Thevina" src="/images/thevina.png" style="width: 200px;">
 
-
+<img title="Thevina" alt="Thevina" src="https://raw.githubusercontent.com/UWSocialComputing/husky-hackers/main/images/thevina.png" style="width: 200px;">
