@@ -15,6 +15,8 @@ DubLease is a platform that connects listers looking to find suitable tenants fo
     <a href="https://www.youtube.com/watch?v=DYi3fZMZbbU"><img src="https://img.youtube.com/vi/DYi3fZMZbbU/hqdefault.jpg" alt="Watch our demo" style="width: 500px;"></a>
 </div>
 
+Take a look at the tabs above to check out each of our project milestones so far!
+
 ## Meet the Team
 
 ### Grace Brigham (nbrigham@cs.washington.edu)
