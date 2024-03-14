@@ -15,7 +15,19 @@ DubLease is a platform that connects listers looking to find suitable tenants fo
     <a href="https://www.youtube.com/watch?v=DYi3fZMZbbU"><img src="https://img.youtube.com/vi/DYi3fZMZbbU/hqdefault.jpg" alt="Watch our demo" style="width: 500px;"></a>
 </div>
 
+## Additional Information
+
 Take a look at the tabs above to check out each of our project milestones so far!
+- [User Research Report](https://uwsocialcomputing.github.io/husky-hackers/G1.html)
+- [Pitch Presentation](https://uwsocialcomputing.github.io/husky-hackers/G2.html)
+- [Low Fidelity Prototype](https://uwsocialcomputing.github.io/husky-hackers/G3.html)
+- [Defined Platform Requirements](https://uwsocialcomputing.github.io/husky-hackers/G4.html)
+- [Midpoint Check & Presentation](https://uwsocialcomputing.github.io/husky-hackers/G5.html)
+- [User Testing Process & Data](https://uwsocialcomputing.github.io/husky-hackers/G6.html)
+- [Digital Prototype](https://uwsocialcomputing.github.io/husky-hackers/G7.html)
+
+## Try the App
+Try the platform [here](https://github.com/UWSocialComputing/husky-hackers-code). Take a look at the [README](https://github.com/UWSocialComputing/husky-hackers-code/blob/d88bce06b7ffc5738d46366ece3e60ed5cdc21f1/README.md) for instructions for how to set up and run DubLease on your machine.
 
 ## Meet the Team
 
