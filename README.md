@@ -31,14 +31,23 @@ Try the platform [here](https://github.com/UWSocialComputing/husky-hackers-code)
 
 ## Meet the Team
 
-### Grace Brigham (nbrigham@cs.washington.edu)
+### Grace Brigham
 
 <img title="Grace" alt="Grace" src="https://raw.githubusercontent.com/UWSocialComputing/husky-hackers/main/images/Headshot.jpg" style="width: 200px;">
+Front-End Developer
 
-### Sanjana Chintalapati (sanjanac@cs.washington.edu)
+nbrigham@cs.washington.edu
+
+### Sanjana Chintalapati
 
 <img title="Sanjana" alt="Sanjana" src="https://raw.githubusercontent.com/UWSocialComputing/husky-hackers/main/images/sanjana.jpg" style="width: 200px;">
+Back-End Developer
 
-### Thevina Dokka (tdokka@cs.washington.edu)
+sanjanac@cs.washington.edu
+
+### Thevina Dokka
 
 <img title="Thevina" alt="Thevina" src="https://raw.githubusercontent.com/UWSocialComputing/husky-hackers/main/images/thevina.png" style="width: 200px;">
+Front-End Developer
+
+tdokka@cs.washington.edu
